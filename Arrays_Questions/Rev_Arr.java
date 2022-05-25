@@ -1,5 +1,7 @@
+//Write a program to reverse an array or string
+
 package Arrays_Questions;
-                                                                       //Write a program to reverse an array or string
+                                                                       
 public class Rev_Arr {
     static void Rev_Arrs(int[]arr,int start, int end){                    //Reverse logic using recursion
         int temp;
